@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_registrar"
+        android:title="Registrar"
+        android:textColor="@color/black"
+        android:orderInCategory="1"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_consultar"
+        android:title="Consultar"
+        android:textColor="@color/black"
+        android:orderInCategory="2"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_salir"
+        android:title="Salir"
+        android:textColor="@color/black"
+        android:orderInCategory="3"
+        android:showAsAction="never" />
+</menu>
